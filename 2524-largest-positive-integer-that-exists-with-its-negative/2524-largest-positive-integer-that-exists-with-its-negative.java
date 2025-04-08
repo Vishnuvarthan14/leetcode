@@ -7,7 +7,8 @@ class Solution {
             for(int j=i+1;j<nums.length;j++)
             {
                 if(nums[i]==nums[j]*-1)
-                    max=(Math.abs(nums[i]))>max?Math.abs(nums[i]):max;
+                    {max=(Math.abs(nums[i]))>max?Math.abs(nums[i]):max;
+                    break;}
             }
         }
         return max;
