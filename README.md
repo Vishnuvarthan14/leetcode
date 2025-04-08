@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vishnuvarthan14/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vishnuvarthan14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Vishnuvarthan14/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vishnuvarthan14/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vishnuvarthan14/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vishnuvarthan14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Vishnuvarthan14/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vishnuvarthan14/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vishnuvarthan14/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vishnuvarthan14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vishnuvarthan14/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Simulation
 |  |
 | ------- |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/Vishnuvarthan14/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vishnuvarthan14/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Enumeration
 |  |
 | ------- |
