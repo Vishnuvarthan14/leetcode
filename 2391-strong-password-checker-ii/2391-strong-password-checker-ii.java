@@ -1,6 +1,8 @@
 class Solution {
     public boolean strongPasswordCheckerII(String password) {
         boolean length=(password.length()>=8)?true:false;
+        if(!length)
+        return false;
         boolean upper=false;
         boolean lower=false;
         boolean digit=false;
@@ -20,11 +22,11 @@ class Solution {
                 spl=true;
 
             if((i+1)<password.length()&&password.charAt(i)==password.charAt(i+1)){
-                    adj=false;
+                    return false;
                     //System.out.printf("%c %c\n",password.charAt(i),password.charAt(i+1));
                     }
         }
 
-        return (length&&upper&&lower&&digit&&spl&&adj);
+        return (upper&&lower&&digit&&spl);
     }
 }
