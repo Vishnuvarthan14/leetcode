@@ -13,7 +13,7 @@ class Solution {
             }
            temp = new ArrayList<>(m);
         } 
-        System.out.println(temp);
+       // System.out.println(temp);
         return temp.get(0)%10;
         }
 }
