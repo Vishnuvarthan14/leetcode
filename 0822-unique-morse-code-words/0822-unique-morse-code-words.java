@@ -1,8 +1,7 @@
 class Solution {
     public int uniqueMorseRepresentations(String[] words) {
         String morse[]={".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."};
-        String code[]=new String[words.length];
-        int ind=0;
+         Set <String> set=new HashSet<>();
         for(String word:words)
         {
             String temp="";
@@ -10,12 +9,9 @@ class Solution {
                 {
                         temp+=morse[word.charAt(i)-'a'];
                 }
-            code[ind++]=temp;
+            set.add(temp);
         }
-       Set <String> set=new HashSet<>();
-       for(String s:code)
-            set.add(s);
-
+      
         return set.size();
     }
 }
