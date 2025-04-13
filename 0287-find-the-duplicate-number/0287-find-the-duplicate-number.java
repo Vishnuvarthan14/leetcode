@@ -7,7 +7,7 @@ class Solution {
         {
             freq[i]++;
         }
-        System.out.println(Arrays.toString(freq));
+       //System.out.println(Arrays.toString(freq));
         for(int i=0;i<nums.length;i++)
         {
             if(freq[i]>1)
