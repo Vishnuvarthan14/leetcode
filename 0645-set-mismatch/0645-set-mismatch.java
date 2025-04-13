@@ -10,6 +10,7 @@ class Solution {
             if(freq[i]==2)
                 {
                     arr[0]=i;
+                    break;
                 }
         }
         for(int i=1;i<nums.length+1;i++)
@@ -17,6 +18,7 @@ class Solution {
             if(freq[i]==0)
                 {
                     arr[1]=i;
+                    break;
                 }
         }
         return arr;
