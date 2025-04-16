@@ -3,7 +3,7 @@ class Solution {
     
 
         LinkedHashMap <Character,Integer> freq = new LinkedHashMap<>();
-        LinkedHashMap <Character,Integer> index = new LinkedHashMap<>();
+        HashMap <Character,Integer> index = new HashMap<>();
 
         for(char c:s.toCharArray())
         {
