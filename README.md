@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vishnuvarthan14/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Vishnuvarthan14/leetcode/tree/master/0645-set-mismatch) |
 | [0822-unique-morse-code-words](https://github.com/Vishnuvarthan14/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0822-unique-morse-code-words](https://github.com/Vishnuvarthan14/leetcode/tree/master/0822-unique-morse-code-words) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vishnuvarthan14/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Vishnuvarthan14/leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Vishnuvarthan14/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vishnuvarthan14/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vishnuvarthan14/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Vishnuvarthan14/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vishnuvarthan14/leetcode/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
