@@ -11,7 +11,7 @@ class Solution {
                     ind=i;
                 }
         }
-        System.out.println(ind);
+     //   System.out.println(ind);
         boolean right=false;
         boolean left=false;
         for(int i=ind;i>0;i--)
