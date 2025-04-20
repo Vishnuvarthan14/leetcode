@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Vishnuvarthan14/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1137-height-checker](https://github.com/Vishnuvarthan14/leetcode/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Vishnuvarthan14/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Vishnuvarthan14/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Vishnuvarthan14/leetcode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/Vishnuvarthan14/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1137-height-checker](https://github.com/Vishnuvarthan14/leetcode/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vishnuvarthan14/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vishnuvarthan14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Vishnuvarthan14/leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
