@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Vishnuvarthan14/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Vishnuvarthan14/leetcode/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Vishnuvarthan14/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Vishnuvarthan14/leetcode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/Vishnuvarthan14/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Vishnuvarthan14/leetcode/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vishnuvarthan14/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0941-sort-array-by-parity](https://github.com/Vishnuvarthan14/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Vishnuvarthan14/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vishnuvarthan14/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Enumeration
