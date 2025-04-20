@@ -17,10 +17,10 @@ class Solution {
                     if(j>1)
                         return false;
                 }
-                System.out.println(Arrays.toString(arr));
+               // System.out.println(Arrays.toString(arr));
   
         }
-        System.out.println("_______________");
+       // System.out.println("_______________");
         for(int i=0;i<9;i++)
         {
              int arr[] = new int[10];
