@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Vishnuvarthan14/leetcode/tree/master/0645-set-mismatch) |
 | [0822-unique-morse-code-words](https://github.com/Vishnuvarthan14/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0941-sort-array-by-parity](https://github.com/Vishnuvarthan14/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0978-valid-mountain-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Vishnuvarthan14/leetcode/tree/master/1319-unique-number-of-occurrences) |
