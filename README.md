@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Vishnuvarthan14/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vishnuvarthan14/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vishnuvarthan14/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2159-two-out-of-three](https://github.com/Vishnuvarthan14/leetcode/tree/master/2159-two-out-of-three) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vishnuvarthan14/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0822-unique-morse-code-words](https://github.com/Vishnuvarthan14/leetcode/tree/master/0822-unique-morse-code-words) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vishnuvarthan14/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vishnuvarthan14/leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vishnuvarthan14/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Vishnuvarthan14/leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vishnuvarthan14/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vishnuvarthan14/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vishnuvarthan14/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vishnuvarthan14/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Vishnuvarthan14/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
