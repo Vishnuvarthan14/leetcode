@@ -45,7 +45,7 @@ class Solution {
         temp1.next=null;
 
         temp.next=dummy;
-        System.out.println(temp.val);
+        //System.out.println(temp.val);
         return head;
         
     }
