@@ -14,12 +14,13 @@ public class Solution {
         ListNode slow=head;
         ListNode fast=head;
 
-        List <ListNode> map = new ArrayList<>();
+        HashMap <ListNode,Integer> map = new HashMap<>();
+        int i=0;
         while(fast!=null&&fast.next!=null)
         {
-                if(!map.contains(slow))
+                if(!map.containsKey(slow))
                 {
-                    map.add(slow);
+                    map.put(slow,i++);
                 }
                 else
                 {
