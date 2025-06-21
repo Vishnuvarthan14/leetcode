@@ -23,7 +23,7 @@ class Solution {
                     stack.push(c);
             }
         }
-        System.out.println(stack);
+      //  System.out.println(stack);
         String ans="";
         for(char c:stack)
             ans+=c;
