@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Vishnuvarthan14/leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Vishnuvarthan14/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Vishnuvarthan14/leetcode/tree/master/0739-daily-temperatures) |
 | [0822-unique-morse-code-words](https://github.com/Vishnuvarthan14/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0941-sort-array-by-parity](https://github.com/Vishnuvarthan14/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/0978-valid-mountain-array) |
@@ -247,7 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Vishnuvarthan14/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Vishnuvarthan14/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Vishnuvarthan14/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Vishnuvarthan14/leetcode/tree/master/1666-make-the-string-great) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Vishnuvarthan14/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
