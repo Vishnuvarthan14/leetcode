@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0822-unique-morse-code-words](https://github.com/Vishnuvarthan14/leetcode/tree/master/0822-unique-morse-code-words) |
+| [0874-backspace-string-compare](https://github.com/Vishnuvarthan14/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vishnuvarthan14/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1666-make-the-string-great](https://github.com/Vishnuvarthan14/leetcode/tree/master/1666-make-the-string-great) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Vishnuvarthan14/leetcode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Vishnuvarthan14/leetcode/tree/master/0874-backspace-string-compare) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vishnuvarthan14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3540-hash-divided-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/3540-hash-divided-string) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vishnuvarthan14/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Vishnuvarthan14/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Vishnuvarthan14/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Vishnuvarthan14/leetcode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Vishnuvarthan14/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Vishnuvarthan14/leetcode/tree/master/1666-make-the-string-great) |
 <!---LeetCode Topics End-->
