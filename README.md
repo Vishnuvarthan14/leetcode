@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Vishnuvarthan14/leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Vishnuvarthan14/leetcode/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vishnuvarthan14/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Vishnuvarthan14/leetcode/tree/master/0012-integer-to-roman) |
 | [0071-simplify-path](https://github.com/Vishnuvarthan14/leetcode/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/Vishnuvarthan14/leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vishnuvarthan14/leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Vishnuvarthan14/leetcode/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vishnuvarthan14/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vishnuvarthan14/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Vishnuvarthan14/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
