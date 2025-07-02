@@ -302,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vishnuvarthan14/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
