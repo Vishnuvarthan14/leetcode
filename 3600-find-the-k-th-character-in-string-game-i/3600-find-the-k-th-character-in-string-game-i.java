@@ -9,9 +9,9 @@ class Solution {
             for(int i=0;i<s.length();i++)
             {
                 char c=s.charAt(i);
-                if(c=='z')
-                    temp+='a';
-                else
+                // if(c=='z')
+                //     temp+='a';
+                // else
                     temp+=(char)(c+1);
             }
             s+=temp;
