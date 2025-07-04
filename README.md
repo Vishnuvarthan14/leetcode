@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vishnuvarthan14/leetcode/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/Vishnuvarthan14/leetcode/tree/master/0079-word-search) |
 | [0137-single-number-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vishnuvarthan14/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vishnuvarthan14/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0071-simplify-path](https://github.com/Vishnuvarthan14/leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Vishnuvarthan14/leetcode/tree/master/0079-word-search) |
 | [0187-repeated-dna-sequences](https://github.com/Vishnuvarthan14/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/Vishnuvarthan14/leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vishnuvarthan14/leetcode/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/Vishnuvarthan14/leetcode/tree/master/0079-word-search) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -306,8 +309,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Vishnuvarthan14/leetcode/tree/master/0079-word-search) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Vishnuvarthan14/leetcode/tree/master/0175-combine-two-tables) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Vishnuvarthan14/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
