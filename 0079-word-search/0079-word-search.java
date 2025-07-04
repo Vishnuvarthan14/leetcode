@@ -7,7 +7,7 @@ class Solution {
         {
             for(j=0;j<board[0].length;j++)
             {
-                if(wordExists(board,word,i,j,0,visited))
+                if(board[i][j]==word.charAt(0)&&wordExists(board,word,i,j,0,visited))
                      return true;
             }
         }
