@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Vishnuvarthan14/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/Vishnuvarthan14/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Vishnuvarthan14/leetcode/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vishnuvarthan14/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vishnuvarthan14/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vishnuvarthan14/leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vishnuvarthan14/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Vishnuvarthan14/leetcode/tree/master/0231-power-of-two) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vishnuvarthan14/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vishnuvarthan14/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Vishnuvarthan14/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vishnuvarthan14/leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Vishnuvarthan14/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Vishnuvarthan14/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vishnuvarthan14/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
