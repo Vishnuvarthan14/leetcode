@@ -8,7 +8,7 @@ class Solution {
         for(int i=1;i<501;i++)
         {
             if(freq[i]==i)
-                 max=Math.max(max,i);
+                 max=(max<i)?i:max;
         }
 
         return max;
