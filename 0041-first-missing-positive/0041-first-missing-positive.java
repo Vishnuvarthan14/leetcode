@@ -17,7 +17,7 @@ class Solution {
         while(i<n&&arr[i]<=0)
             i++;
 
-        System.out.println(i);
+       // System.out.println(i);
         int k=1;
         for(int j=i;j<arr.length;j++)
         {
