@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Vishnuvarthan14/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vishnuvarthan14/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1666-make-the-string-great](https://github.com/Vishnuvarthan14/leetcode/tree/master/1666-make-the-string-great) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vishnuvarthan14/leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vishnuvarthan14/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Matrix
 |  |
 | ------- |
