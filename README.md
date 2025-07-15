@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Vishnuvarthan14/leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Vishnuvarthan14/leetcode/tree/master/0874-backspace-string-compare) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vishnuvarthan14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Vishnuvarthan14/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3447-clear-digits](https://github.com/Vishnuvarthan14/leetcode/tree/master/3447-clear-digits) |
 | [3540-hash-divided-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/3540-hash-divided-string) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vishnuvarthan14/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Vishnuvarthan14/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
