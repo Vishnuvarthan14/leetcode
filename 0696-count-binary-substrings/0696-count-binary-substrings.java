@@ -19,9 +19,7 @@ class Solution {
        // System.out.println(list);
        for(int i=0;i<list.size()-1;i++)
        {
-        int a=list.get(i);
-        int b=list.get(i+1);
-         count+=Math.min(a,b);
+         count+=Math.min(list.get(i),list.get(i+1));
        }    
         return count;
     }
