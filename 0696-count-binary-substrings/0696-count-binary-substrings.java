@@ -16,7 +16,7 @@ class Solution {
         }
         list.add(count);
         count=0;
-        System.out.println(list);
+       // System.out.println(list);
        for(int i=0;i<list.size()-1;i++)
        {
         int a=list.get(i);
