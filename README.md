@@ -400,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Vishnuvarthan14/leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
