@@ -12,13 +12,14 @@ class Solution {
             adjs.get(v).add(u);
         }
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-         
+         if(source==destination)
+            return true;
         Stack <Integer> stack = new Stack<>();
         boolean visited[] = new boolean[n];
         stack.push(source);
-
+        visited[source]=true;
         createAdjs(n);
-
+        
         for(int arr[] : edges)
         {
             populate(arr[0],arr[1]);
