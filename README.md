@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Vishnuvarthan14/leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Vishnuvarthan14/leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0229-majority-element-ii) |
@@ -415,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vishnuvarthan14/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/Vishnuvarthan14/leetcode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
