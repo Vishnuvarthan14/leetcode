@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/Vishnuvarthan14/leetcode/tree/master/0207-course-schedule) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vishnuvarthan14/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Design
 |  |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/Vishnuvarthan14/leetcode/tree/master/0207-course-schedule) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vishnuvarthan14/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Vishnuvarthan14/leetcode/tree/master/0207-course-schedule) |
 | [1916-find-center-of-star-graph](https://github.com/Vishnuvarthan14/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vishnuvarthan14/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -424,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Vishnuvarthan14/leetcode/tree/master/0198-house-robber) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Vishnuvarthan14/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
