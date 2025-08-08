@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vishnuvarthan14/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0210-course-schedule-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vishnuvarthan14/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0975-range-sum-of-bst](https://github.com/Vishnuvarthan14/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vishnuvarthan14/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Vishnuvarthan14/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/0112-path-sum) |
+| [0975-range-sum-of-bst](https://github.com/Vishnuvarthan14/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/0112-path-sum) |
+| [0975-range-sum-of-bst](https://github.com/Vishnuvarthan14/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Vishnuvarthan14/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Graph
 |  |
