@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0210-course-schedule-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vishnuvarthan14/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vishnuvarthan14/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Vishnuvarthan14/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Design
 |  |
 | ------- |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0210-course-schedule-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vishnuvarthan14/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vishnuvarthan14/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Vishnuvarthan14/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -440,10 +442,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Vishnuvarthan14/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1916-find-center-of-star-graph](https://github.com/Vishnuvarthan14/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vishnuvarthan14/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Vishnuvarthan14/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vishnuvarthan14/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/Vishnuvarthan14/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
 |  |
 | ------- |
