@@ -3,18 +3,14 @@ class Solution {
    private HashMap <Integer,TreeSet<Integer>> map= new HashMap<>();
 
     public int[] processQueries(int c, int[][] connections, int[][] queries) {
-        ArrayList <Integer> ans = new ArrayList<>();
+       
         int nodeMap[] = new int[c];
         for(int i=0;i<c;i++)
         {
             adjs.add(new ArrayList<>());
         }
 
-        for(int arr[]:connections)
-        {
-            adjs.get(arr[0]-1).add(arr[1]-1);
-            adjs.get(arr[1]-1).add(arr[0]-1);
-        }
+        insert(connections);
 
         boolean visited[] = new boolean[c];
         int comp=1;
@@ -25,7 +21,16 @@ class Solution {
                 comp++;
                 }
         }
-           for(int arr[]:queries)
+
+          
+
+         return compute(nodeMap,queries);
+    }
+
+    public int[] compute(int[] nodeMap,int[][] queries)
+    {
+         ArrayList <Integer> ans = new ArrayList<>();
+          for(int arr[]:queries)
            {
             if(arr[0]==1)
             {
@@ -49,14 +54,13 @@ class Solution {
             }
            }
 
-          int arr[] = new int[ans.size()];
+           int arr[] = new int[ans.size()];
           for(int i=0;i<ans.size();i++)
           {
             arr[i]=ans.get(i);
           }
         return arr;
     }
-
 
     public TreeSet<Integer> bfs(int comp,int source,boolean visited[],int[] nodeMap)
     {
@@ -82,5 +86,14 @@ class Solution {
             }
         }
         return set;
+    }
+
+    public void insert(int[][] connections)
+    {
+        for(int arr[]:connections)
+        {
+            adjs.get(arr[0]-1).add(arr[1]-1);
+            adjs.get(arr[1]-1).add(arr[0]-1);
+        }
     }
 }
