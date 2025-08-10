@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Vishnuvarthan14/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0142-linked-list-cycle-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vishnuvarthan14/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Vishnuvarthan14/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/Vishnuvarthan14/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0210-course-schedule-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vishnuvarthan14/leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Vishnuvarthan14/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0975-range-sum-of-bst](https://github.com/Vishnuvarthan14/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Vishnuvarthan14/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0975-range-sum-of-bst](https://github.com/Vishnuvarthan14/leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Vishnuvarthan14/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/Vishnuvarthan14/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0210-course-schedule-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vishnuvarthan14/leetcode/tree/master/0813-all-paths-from-source-to-target) |
