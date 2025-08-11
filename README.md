@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Vishnuvarthan14/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/Vishnuvarthan14/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Vishnuvarthan14/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Vishnuvarthan14/leetcode/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vishnuvarthan14/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0975-range-sum-of-bst](https://github.com/Vishnuvarthan14/leetcode/tree/master/0975-range-sum-of-bst) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Vishnuvarthan14/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/Vishnuvarthan14/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Vishnuvarthan14/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Vishnuvarthan14/leetcode/tree/master/0695-max-area-of-island) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vishnuvarthan14/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vishnuvarthan14/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Vishnuvarthan14/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Vishnuvarthan14/leetcode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vishnuvarthan14/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1916-find-center-of-star-graph](https://github.com/Vishnuvarthan14/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vishnuvarthan14/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Vishnuvarthan14/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Vishnuvarthan14/leetcode/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Vishnuvarthan14/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Vishnuvarthan14/leetcode/tree/master/2793-count-the-number-of-complete-components) |
