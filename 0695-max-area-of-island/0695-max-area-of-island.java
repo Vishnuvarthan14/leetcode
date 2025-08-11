@@ -11,7 +11,8 @@ class Solution {
                 if(grid[i][j]==1&&!visited[i][j])
                 {
                     int area=backtrack(grid,i,j,visited);
-                    max=Math.max(max,area);
+                   if(max<area)
+                    max=area;
                 }
             }
         }
