@@ -1,43 +1,35 @@
 class Solution {
-
-    public void addEdges(int[][] edges,Disjoin ds)
+    int parent[];
+    int rank[];
+    public void addEdges(int[][] edges)
     {
         for(int i=0;i<edges.length;i++)
         {
             for(int j=0;j<edges[i].length;j++)
             {
                 if(edges[i][j]==1)
-               ds.union(i,j);
+               union(i,j);
             }
         }
     }
 
     public int findCircleNum(int[][] edges) {
-        Disjoin ds = new Disjoin(edges.length);
-        int cmp=0;
-        addEdges(edges,ds);
+        rank=new int[edges.length];
+        parent=new int[edges.length];
+
         for(int i=0;i<edges.length;i++)
         {
-            if(ds.find(i)==i)
+            parent[i]=i;
+        }
+        int cmp=0;
+        addEdges(edges);
+        for(int i=0;i<edges.length;i++)
+        {
+            if(find(i)==i)
             cmp++;
         }
         //System.out.println(Arrays.toString(ds.rank));
         return cmp;
-    }
-}
-class Disjoin
-{
-    int parent[];
-    int rank[];
-    Disjoin(int n)
-    {
-        rank=new int[n];
-        parent=new int[n];
-
-        for(int i=0;i<n;i++)
-        {
-            parent[i]=i;
-        }
     }
 
     public int find(int x)
