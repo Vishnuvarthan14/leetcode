@@ -2,12 +2,13 @@ class Solution {
     public int numberOfSubstrings(String s) {
         
         int arr[] = new int[3];
+        char[] chars= s.toCharArray();
         Arrays.fill(arr,-1);
         int j=0,count=0;
 
         while(j<s.length())
         {
-            char c=s.charAt(j);
+            char c=chars[j];
 
                 arr[c-'a']=j;
             if(arr[0]>-1&&arr[1]>-1&&arr[2]>-1)
