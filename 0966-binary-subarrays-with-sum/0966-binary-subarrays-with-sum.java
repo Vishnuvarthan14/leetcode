@@ -1,8 +1,6 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
 
-        System.out.println(fun(nums,goal));
-        System.out.println(fun(nums,goal-1));
         return fun(nums,goal)-fun(nums,goal-1);
     }
     public int fun(int[] nums,int goal)
