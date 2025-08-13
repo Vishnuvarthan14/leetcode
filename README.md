@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Vishnuvarthan14/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Vishnuvarthan14/leetcode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Vishnuvarthan14/leetcode/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/Vishnuvarthan14/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vishnuvarthan14/leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0137-single-number-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Vishnuvarthan14/leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Vishnuvarthan14/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Vishnuvarthan14/leetcode/tree/master/0231-power-of-two) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/Vishnuvarthan14/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vishnuvarthan14/leetcode/tree/master/0079-word-search) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vishnuvarthan14/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Database
