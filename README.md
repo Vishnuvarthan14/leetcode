@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vishnuvarthan14/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1582-design-browser-history](https://github.com/Vishnuvarthan14/leetcode/tree/master/1582-design-browser-history) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Vishnuvarthan14/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2159-two-out-of-three](https://github.com/Vishnuvarthan14/leetcode/tree/master/2159-two-out-of-three) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vishnuvarthan14/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1582-design-browser-history](https://github.com/Vishnuvarthan14/leetcode/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vishnuvarthan14/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Vishnuvarthan14/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Vishnuvarthan14/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1582-design-browser-history](https://github.com/Vishnuvarthan14/leetcode/tree/master/1582-design-browser-history) |
 | [1666-make-the-string-great](https://github.com/Vishnuvarthan14/leetcode/tree/master/1666-make-the-string-great) |
 | [3447-clear-digits](https://github.com/Vishnuvarthan14/leetcode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1582-design-browser-history](https://github.com/Vishnuvarthan14/leetcode/tree/master/1582-design-browser-history) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Tree
 |  |
@@ -516,4 +520,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/Vishnuvarthan14/leetcode/tree/master/3863-power-grid-maintenance) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Vishnuvarthan14/leetcode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Vishnuvarthan14/leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
