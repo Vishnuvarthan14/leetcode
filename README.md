@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1582-design-browser-history](https://github.com/Vishnuvarthan14/leetcode/tree/master/1582-design-browser-history) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vishnuvarthan14/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Vishnuvarthan14/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2159-two-out-of-three](https://github.com/Vishnuvarthan14/leetcode/tree/master/2159-two-out-of-three) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vishnuvarthan14/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vishnuvarthan14/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Vishnuvarthan14/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/Vishnuvarthan14/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vishnuvarthan14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Vishnuvarthan14/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Vishnuvarthan14/leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vishnuvarthan14/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishnuvarthan14/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Vishnuvarthan14/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vishnuvarthan14/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Vishnuvarthan14/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vishnuvarthan14/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vishnuvarthan14/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Matrix
 |  |
 | ------- |
