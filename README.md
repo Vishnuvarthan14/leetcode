@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0838-design-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vishnuvarthan14/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/Vishnuvarthan14/leetcode/tree/master/1582-design-browser-history) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0838-design-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/Vishnuvarthan14/leetcode/tree/master/1582-design-browser-history) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Tree
