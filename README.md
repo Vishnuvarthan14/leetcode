@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Vishnuvarthan14/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Vishnuvarthan14/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vishnuvarthan14/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vishnuvarthan14/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vishnuvarthan14/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3863-power-grid-maintenance](https://github.com/Vishnuvarthan14/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Vishnuvarthan14/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Vishnuvarthan14/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vishnuvarthan14/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vishnuvarthan14/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3863-power-grid-maintenance](https://github.com/Vishnuvarthan14/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Bit Manipulation
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishnuvarthan14/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Vishnuvarthan14/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vishnuvarthan14/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vishnuvarthan14/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vishnuvarthan14/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Enumeration
 |  |
