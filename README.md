@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Vishnuvarthan14/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Vishnuvarthan14/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Vishnuvarthan14/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vishnuvarthan14/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vishnuvarthan14/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vishnuvarthan14/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vishnuvarthan14/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/Vishnuvarthan14/leetcode/tree/master/2159-two-out-of-three) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Vishnuvarthan14/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vishnuvarthan14/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
