@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vishnuvarthan14/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vishnuvarthan14/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vishnuvarthan14/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vishnuvarthan14/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/Vishnuvarthan14/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vishnuvarthan14/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vishnuvarthan14/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vishnuvarthan14/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vishnuvarthan14/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Combinatorics
 |  |
 | ------- |
