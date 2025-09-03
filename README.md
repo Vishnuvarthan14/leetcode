@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Vishnuvarthan14/leetcode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Vishnuvarthan14/leetcode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vishnuvarthan14/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vishnuvarthan14/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/Vishnuvarthan14/leetcode/tree/master/2159-two-out-of-three) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Vishnuvarthan14/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vishnuvarthan14/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vishnuvarthan14/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vishnuvarthan14/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Vishnuvarthan14/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
