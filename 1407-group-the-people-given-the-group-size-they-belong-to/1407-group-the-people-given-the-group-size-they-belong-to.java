@@ -13,7 +13,7 @@ class Solution {
             map.get(key).add(i);
         }
 
-        System.out.println(map);
+       // System.out.println(map);
 
         for(int key:map.keySet())
         {
