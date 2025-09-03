@@ -7,6 +7,7 @@ class Solution {
         {
             sb.append("-"+Integer.toBinaryString(Integer.parseInt(s)));
         }
-        return sb.toString().substring(1);
+        sb.delete(0,1);
+        return sb.toString();
     }
 }
