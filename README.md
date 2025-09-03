@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/Vishnuvarthan14/leetcode/tree/master/1582-design-browser-history) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vishnuvarthan14/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Vishnuvarthan14/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Vishnuvarthan14/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1839-decode-xored-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vishnuvarthan14/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vishnuvarthan14/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Vishnuvarthan14/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Vishnuvarthan14/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/Vishnuvarthan14/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vishnuvarthan14/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vishnuvarthan14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
