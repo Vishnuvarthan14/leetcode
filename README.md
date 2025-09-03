@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-strong-password-checker-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/2391-strong-password-checker-ii) |
 | [3447-clear-digits](https://github.com/Vishnuvarthan14/leetcode/tree/master/3447-clear-digits) |
 | [3540-hash-divided-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/3540-hash-divided-string) |
+| [3567-convert-date-to-binary](https://github.com/Vishnuvarthan14/leetcode/tree/master/3567-convert-date-to-binary) |
 ## Counting
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Vishnuvarthan14/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vishnuvarthan14/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3567-convert-date-to-binary](https://github.com/Vishnuvarthan14/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vishnuvarthan14/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vishnuvarthan14/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vishnuvarthan14/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
