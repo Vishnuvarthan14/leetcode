@@ -31,7 +31,7 @@ class Solution {
 
         Collections.sort(list);
 
-        System.out.println(list);
+       // System.out.println(list);
         int n=list.size()-1;
         int min=Integer.MAX_VALUE;
         for(int i=0;i<n;i++)
