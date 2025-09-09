@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Vishnuvarthan14/leetcode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Vishnuvarthan14/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Vishnuvarthan14/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Vishnuvarthan14/leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Vishnuvarthan14/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vishnuvarthan14/leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Vishnuvarthan14/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Vishnuvarthan14/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0229-majority-element-ii) |
