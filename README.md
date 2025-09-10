@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Vishnuvarthan14/leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Vishnuvarthan14/leetcode/tree/master/0739-daily-temperatures) |
 | [0822-unique-morse-code-words](https://github.com/Vishnuvarthan14/leetcode/tree/master/0822-unique-morse-code-words) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Vishnuvarthan14/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0841-shortest-distance-to-a-character](https://github.com/Vishnuvarthan14/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/Vishnuvarthan14/leetcode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Vishnuvarthan14/leetcode/tree/master/0890-lemonade-change) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Vishnuvarthan14/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Vishnuvarthan14/leetcode/tree/master/0768-partition-labels) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Vishnuvarthan14/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Vishnuvarthan14/leetcode/tree/master/0890-lemonade-change) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vishnuvarthan14/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vishnuvarthan14/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vishnuvarthan14/leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Vishnuvarthan14/leetcode/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/Vishnuvarthan14/leetcode/tree/master/0695-max-area-of-island) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/Vishnuvarthan14/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0861-flipping-an-image](https://github.com/Vishnuvarthan14/leetcode/tree/master/0861-flipping-an-image) |
 ## Heap (Priority Queue)
 |  |
