@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-strong-password-checker-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/Vishnuvarthan14/leetcode/tree/master/3447-clear-digits) |
+| [3462-vowels-game-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3540-hash-divided-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/3540-hash-divided-string) |
 | [3567-convert-date-to-binary](https://github.com/Vishnuvarthan14/leetcode/tree/master/3567-convert-date-to-binary) |
 ## Counting
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Vishnuvarthan14/leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Vishnuvarthan14/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3462-vowels-game-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vishnuvarthan14/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishnuvarthan14/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/Vishnuvarthan14/leetcode/tree/master/3567-convert-date-to-binary) |
@@ -625,4 +627,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Vishnuvarthan14/leetcode/tree/master/2491-smallest-even-multiple) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
