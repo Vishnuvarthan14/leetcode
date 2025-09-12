@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Vishnuvarthan14/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vishnuvarthan14/leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishnuvarthan14/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vishnuvarthan14/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Vishnuvarthan14/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Vishnuvarthan14/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Vishnuvarthan14/leetcode/tree/master/0231-power-of-two) |
