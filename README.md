@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Vishnuvarthan14/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Vishnuvarthan14/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vishnuvarthan14/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Vishnuvarthan14/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vishnuvarthan14/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vishnuvarthan14/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Vishnuvarthan14/leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2391-strong-password-checker-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vishnuvarthan14/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3447-clear-digits](https://github.com/Vishnuvarthan14/leetcode/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Vishnuvarthan14/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vishnuvarthan14/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vishnuvarthan14/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Vishnuvarthan14/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Matrix
 |  |
