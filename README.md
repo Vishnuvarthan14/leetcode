@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Vishnuvarthan14/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vishnuvarthan14/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vishnuvarthan14/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vishnuvarthan14/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Vishnuvarthan14/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Vishnuvarthan14/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vishnuvarthan14/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/Vishnuvarthan14/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Vishnuvarthan14/leetcode/tree/master/2556-convert-the-temperature) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vishnuvarthan14/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Vishnuvarthan14/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2491-smallest-even-multiple](https://github.com/Vishnuvarthan14/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vishnuvarthan14/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Brainteaser
 |  |
 | ------- |
