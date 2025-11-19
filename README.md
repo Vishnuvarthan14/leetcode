@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Vishnuvarthan14/leetcode/tree/master/0953-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/Vishnuvarthan14/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1454-remove-palindromic-subsequences](https://github.com/Vishnuvarthan14/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vishnuvarthan14/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Vishnuvarthan14/leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Vishnuvarthan14/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Vishnuvarthan14/leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1454-remove-palindromic-subsequences](https://github.com/Vishnuvarthan14/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vishnuvarthan14/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishnuvarthan14/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
