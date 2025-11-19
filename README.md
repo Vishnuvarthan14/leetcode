@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Vishnuvarthan14/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vishnuvarthan14/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vishnuvarthan14/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vishnuvarthan14/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vishnuvarthan14/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Vishnuvarthan14/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Vishnuvarthan14/leetcode/tree/master/0890-lemonade-change) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vishnuvarthan14/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1448-maximum-69-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vishnuvarthan14/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vishnuvarthan14/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vishnuvarthan14/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
