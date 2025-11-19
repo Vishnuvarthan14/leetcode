@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vishnuvarthan14/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vishnuvarthan14/leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1970-sorting-the-sentence](https://github.com/Vishnuvarthan14/leetcode/tree/master/1970-sorting-the-sentence) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vishnuvarthan14/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vishnuvarthan14/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Vishnuvarthan14/leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2391-strong-password-checker-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/2391-strong-password-checker-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1454-remove-palindromic-subsequences](https://github.com/Vishnuvarthan14/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vishnuvarthan14/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vishnuvarthan14/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishnuvarthan14/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Vishnuvarthan14/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Vishnuvarthan14/leetcode/tree/master/0890-lemonade-change) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vishnuvarthan14/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vishnuvarthan14/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vishnuvarthan14/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vishnuvarthan14/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vishnuvarthan14/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Vishnuvarthan14/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vishnuvarthan14/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Vishnuvarthan14/leetcode/tree/master/1582-design-browser-history) |
 | [1666-make-the-string-great](https://github.com/Vishnuvarthan14/leetcode/tree/master/1666-make-the-string-great) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vishnuvarthan14/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
