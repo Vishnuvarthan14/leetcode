@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vishnuvarthan14/leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3055-maximum-odd-binary-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3447-clear-digits](https://github.com/Vishnuvarthan14/leetcode/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3540-hash-divided-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/3540-hash-divided-string) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Vishnuvarthan14/leetcode/tree/master/2556-convert-the-temperature) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vishnuvarthan14/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3055-maximum-odd-binary-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Vishnuvarthan14/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vishnuvarthan14/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vishnuvarthan14/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Vishnuvarthan14/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3055-maximum-odd-binary-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Binary Search
 |  |
 | ------- |
