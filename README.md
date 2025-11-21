@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Vishnuvarthan14/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vishnuvarthan14/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vishnuvarthan14/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Vishnuvarthan14/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Vishnuvarthan14/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Vishnuvarthan14/leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Vishnuvarthan14/leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Vishnuvarthan14/leetcode/tree/master/0874-backspace-string-compare) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Vishnuvarthan14/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishnuvarthan14/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vishnuvarthan14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/Vishnuvarthan14/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Vishnuvarthan14/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Vishnuvarthan14/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Vishnuvarthan14/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vishnuvarthan14/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Vishnuvarthan14/leetcode/tree/master/1582-design-browser-history) |
 | [1666-make-the-string-great](https://github.com/Vishnuvarthan14/leetcode/tree/master/1666-make-the-string-great) |
