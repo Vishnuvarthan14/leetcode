@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vishnuvarthan14/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vishnuvarthan14/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vishnuvarthan14/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Vishnuvarthan14/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vishnuvarthan14/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vishnuvarthan14/leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vishnuvarthan14/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vishnuvarthan14/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vishnuvarthan14/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Vishnuvarthan14/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
