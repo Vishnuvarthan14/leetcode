@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vishnuvarthan14/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishnuvarthan14/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vishnuvarthan14/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/Vishnuvarthan14/leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Vishnuvarthan14/leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vishnuvarthan14/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/Vishnuvarthan14/leetcode/tree/master/3863-power-grid-maintenance) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Vishnuvarthan14/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vishnuvarthan14/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vishnuvarthan14/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/Vishnuvarthan14/leetcode/tree/master/3668-restore-finishing-order) |
 | [3863-power-grid-maintenance](https://github.com/Vishnuvarthan14/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Bit Manipulation
 |  |
