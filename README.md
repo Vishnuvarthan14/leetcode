@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Vishnuvarthan14/leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Vishnuvarthan14/leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Vishnuvarthan14/leetcode/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Vishnuvarthan14/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0822-unique-morse-code-words](https://github.com/Vishnuvarthan14/leetcode/tree/master/0822-unique-morse-code-words) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Vishnuvarthan14/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0841-shortest-distance-to-a-character](https://github.com/Vishnuvarthan14/leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vishnuvarthan14/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Vishnuvarthan14/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vishnuvarthan14/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Divide and Conquer
 |  |
