@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Vishnuvarthan14/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Vishnuvarthan14/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Vishnuvarthan14/leetcode/tree/master/0575-distribute-candies) |
+| [0598-range-addition-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/Vishnuvarthan14/leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Vishnuvarthan14/leetcode/tree/master/0645-set-mismatch) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vishnuvarthan14/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Vishnuvarthan14/leetcode/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0598-range-addition-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Vishnuvarthan14/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vishnuvarthan14/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vishnuvarthan14/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
