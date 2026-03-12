@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0518-coin-change-ii) |
 | [0561-array-partition](https://github.com/Vishnuvarthan14/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Vishnuvarthan14/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Vishnuvarthan14/leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Vishnuvarthan14/leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Vishnuvarthan14/leetcode/tree/master/0645-set-mismatch) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vishnuvarthan14/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vishnuvarthan14/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vishnuvarthan14/leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/Vishnuvarthan14/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Vishnuvarthan14/leetcode/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/Vishnuvarthan14/leetcode/tree/master/0768-partition-labels) |
 | [0822-unique-morse-code-words](https://github.com/Vishnuvarthan14/leetcode/tree/master/0822-unique-morse-code-words) |
