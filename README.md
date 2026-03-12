@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vishnuvarthan14/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vishnuvarthan14/leetcode/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0518-coin-change-ii) |
+| [0561-array-partition](https://github.com/Vishnuvarthan14/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Vishnuvarthan14/leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Vishnuvarthan14/leetcode/tree/master/0645-set-mismatch) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Vishnuvarthan14/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Vishnuvarthan14/leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Vishnuvarthan14/leetcode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/Vishnuvarthan14/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vishnuvarthan14/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Vishnuvarthan14/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Vishnuvarthan14/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Vishnuvarthan14/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Vishnuvarthan14/leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Vishnuvarthan14/leetcode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/Vishnuvarthan14/leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vishnuvarthan14/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
