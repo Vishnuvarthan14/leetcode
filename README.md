@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vishnuvarthan14/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vishnuvarthan14/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Vishnuvarthan14/leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vishnuvarthan14/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/Vishnuvarthan14/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Vishnuvarthan14/leetcode/tree/master/0079-word-search) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vishnuvarthan14/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Vishnuvarthan14/leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Vishnuvarthan14/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vishnuvarthan14/leetcode/tree/master/0079-word-search) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Vishnuvarthan14/leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Vishnuvarthan14/leetcode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Vishnuvarthan14/leetcode/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/Vishnuvarthan14/leetcode/tree/master/0518-coin-change-ii) |
