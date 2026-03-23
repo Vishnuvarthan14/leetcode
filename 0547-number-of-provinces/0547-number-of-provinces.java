@@ -1,68 +1,37 @@
 class Solution {
-    int parent[];
-    int rank[];
-    public void addEdges(int[][] edges)
-    {
-        for(int i=0;i<edges.length;i++)
+    public int findCircleNum(int[][] isConnected) {
+        int count=0;
+
+        boolean visited[] = new boolean[isConnected.length];
+
+        for(int i=0;i<isConnected.length;i++)
         {
-            for(int j=0;j<edges[i].length;j++)
+            if(!visited[i])
             {
-                if(edges[i][j]==1)
-               union(i,j);
+                count++;
+                dfs(isConnected,visited,i);
             }
         }
+        return count;
     }
 
-    public int findCircleNum(int[][] edges) {
-        rank=new int[edges.length];
-        parent=new int[edges.length];
-
-        for(int i=0;i<edges.length;i++)
-        {
-            parent[i]=i;
-        }
-        int cmp=0;
-        addEdges(edges);
-        for(int i=0;i<edges.length;i++)
-        {
-            if(find(i)==i)
-            cmp++;
-        }
-        //System.out.println(Arrays.toString(ds.rank));
-        return cmp;
-    }
-
-    public int find(int x)
+    public void dfs(int [][] adj,boolean []visited,int start)
     {
-        int root=parent[x];
+        Stack <Integer> stack = new Stack<>();
+        stack.push(start);
 
-        if(parent[root]!=root)
+        while(!stack.isEmpty())
         {
-           return parent[x]=find(root);
-        }
+            int val = stack.pop();
 
-        return root;
-    }
-
-    public void union(int x,int y)
-    {
-        int xRoot=find(x);
-        int yRoot=find(y);
-
-        if(xRoot==yRoot)
-            return;
-        if(rank[xRoot]>rank[yRoot])
-        {
-            parent[yRoot]=xRoot;
-        }
-        else if(rank[xRoot]<rank[yRoot])
-        {
-            parent[xRoot]=yRoot;
-        }
-        else
-        {
-            parent[yRoot]=xRoot;
-            rank[xRoot]++;
+                for(int i=0;i<adj[val].length;i++)
+                {
+                    if(adj[val][i]==1&&!visited[i]){
+                    stack.push(i);
+                    visited[i]=true;
+                    }
+                }
+            
         }
     }
 }
